@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28c5249b0d0f08931670e71bcf117fd1",
+    "revision": "2511efecf43f5f5481fcb5d2c53bddd2",
     "url": "/phone-catalog/index.html"
   },
   {
-    "revision": "0de267db9bfe4f5c4498",
+    "revision": "dc299894dfd45dc73074",
     "url": "/phone-catalog/static/css/main.a0fd06de.chunk.css"
   },
   {
-    "revision": "baf0fe205a066dc271f3",
-    "url": "/phone-catalog/static/js/2.c6a328f7.chunk.js"
+    "revision": "598a2d11ddd37ec655c5",
+    "url": "/phone-catalog/static/js/2.61302d93.chunk.js"
   },
   {
-    "revision": "0de267db9bfe4f5c4498",
-    "url": "/phone-catalog/static/js/main.bb5cce08.chunk.js"
+    "revision": "dc299894dfd45dc73074",
+    "url": "/phone-catalog/static/js/main.e956a4be.chunk.js"
   },
   {
     "revision": "091249c31f8d2c746251",
